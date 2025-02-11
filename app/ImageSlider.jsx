@@ -8,7 +8,15 @@ import { Navigation, Pagination, Autoplay } from 'swiper/modules';
 import Image from 'next/image';
 
 const ImageSlider = () => {
-  const images = ['/s1.jpg', '/s2.jpg', '/s3.jpg', '/s4.jpg', '/s5.jpg', '/s6.jpg', '/s7.jpg', '/s8.jpg'];
+  const images = [
+    '/s1.jpg', 
+    '/s2.jpg', 
+    '/s3.jpg', 
+    '/s4.jpg', 
+    '/s5.jpg', 
+    '/s6.jpg', 
+    '/s7.jpg', 
+    '/s8.jpg'];
   return (
     <div className="w-[90%] mx-auto h-screen">
       <Swiper

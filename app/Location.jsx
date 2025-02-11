@@ -13,8 +13,9 @@ const Location = () => {
               <div className="rounded-lg overflow-hidden shadow-lg transform transition duration-300 hover:scale-105">
               
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d219.94048725609372!2d84.10949555946192!3d28.114574195154436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2snp!4v1739116580519!5m2!1sen!2snp"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1870.0119775402804!2d84.10919847049823!3d28.114217572633414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3995a30073d2b64d%3A0x82a99bb081547153!2sSagun%20home!5e0!3m2!1sen!2snp!4v1739279175152!5m2!1sen!2snp"
                   width="100%" height="480" style={{ border: "0" }} allowFullScreen="" loading="lazy"></iframe>
+                  
               </div>
               <div className="bg-white rounded-lg overflow-hidden shadow-lg p-6">
                 <div className="mb-6">

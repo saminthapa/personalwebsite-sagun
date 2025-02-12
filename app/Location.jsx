@@ -20,7 +20,7 @@ const Location = () => {
               <div className="bg-white rounded-lg overflow-hidden shadow-lg p-6">
                 <div className="mb-6">
                   <h3 className="text-2xl font-medium text-indigo-700">My Address</h3>
-                  <p className="mt-2 text-lg text-gray-600">Nalepatan-32, 33700 Pokhara</p>
+                  <p className="mt-2 text-lg text-gray-600">Malepatan-32, 33700 Pokhara</p>
                 </div>
 
                 <div className="border-t border-gray-200 pt-6">
